@@ -1,0 +1,27 @@
+{
+  "captured": "2026-09-25",
+  "description": "Real Avalonia views; isolated synthetic data; no performance measurements",
+  "generator": "tools/UxReview; MMS_HELP_CAPTURE=1",
+  "images": {
+    "agents.png": "2ee8151ee771adab6fca06dfcbafbacbd8db03df7fa07018c5a7e0970c416200",
+    "audit.png": "ccf667e5cd7a29c0d985025f30db4d6e95c2c8ddd7dd1737975304fd3c8d93af",
+    "automation.png": "c0ca049ddfb2bc1a6e2082e1d7521cd36daa8c099f59435b6cf3df57aeb94025",
+    "chat.png": "32ed29058a9ead932dfde0906b4c7a77d9d20ed215144bfc370dfae24cf6f191",
+    "chatmesh.png": "b3978fd4794ad7f16a566f3e3041fe01eb1aa1cccf96d4fabf4d65cee93ef5a3",
+    "diagnostics.png": "3f279bccd2482dd5c3553c3ae9305b0744d82d4f7653701f902fc201574dfee9",
+    "federation.png": "49f68b3683eec7995a5a951e82f2f5a12bc6118693b377ef698c76d5a3a748e0",
+    "knowledge.png": "f52a51105193c19522d1350426c5dffaa638f791e4116cb382d1ad88e95ed61f",
+    "mcp.png": "b5739567b3b134248497090a2ac6967019c9ea17d46877c8d86d7be867fd8ee2",
+    "memory.png": "fde04b1ff4641034669920ebd6a59beac89008b09d4b8680af6426e2a7c7ceec",
+    "models.png": "6cd3ea29690a0aa1845d7ec8c738821b2b06231fefd988aa813280bb9441d2ef",
+    "moteka-options.png": "14da45bb88faf43c890129f5d276cac45788fe8d848a1e9431678d8a787b94ae",
+    "moteka.png": "d9dc6d6e6bd92ffd6f0b4253d32d47fa1fe78340f625a55487d55b6e683f197f",
+    "multiagent.png": "cf8db9575002f167f841b33534bce4eb0b3e3555693c0d37073d732944e200ba",
+    "runtime.png": "a4aa97dd879b384a3d438407481c0309d965bb9b08999efcaaf01317a415c9f4",
+    "sessions.png": "5ff281b715531fd46274215f8b6d6be23b230076d62fa526d9ddbbecd131a5fd",
+    "setup-flow.png": "2f23bc1ba9aca319e5b407c9a9f71049baa9169b32c2f9e1f005abfe407a2e9b",
+    "setup.png": "f35cc41f52c2d470d59c31647341bd07dc0f510a49323e010e7e20600263435e",
+    "tools.png": "0b3cdf825ba6d3ee29a14a76df466e5911525261110aa1fbf8e273569679b113",
+    "training.png": "df26f12f84e2f33d354137fa100a0eb28ee88fefd07ead3972a4b98555162747"
+  }
+}
