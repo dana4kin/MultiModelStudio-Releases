@@ -1,0 +1,58 @@
+[
+  {
+    "archive": "MMS-v26.2.1-Windows-x64.zip",
+    "bytes": 68180187,
+    "sha256": "7eaeeb62ff17a2a929d1ba39973caec5ac193951fdc4724f765343ed6818145d",
+    "rid": "win-x64",
+    "version": "26.2.1",
+    "payloadHashesVerified": true,
+    "externalDependenciesIncluded": false,
+    "signedManifest": true,
+    "signingKeySha256": "0fe634a186142df2443e605490b47a8dfd8af98671ebce4bee7150d10b7b55b3"
+  },
+  {
+    "archive": "MMS-v26.2.1-Linux-x64-self-contained.tar.gz",
+    "bytes": 77842472,
+    "sha256": "ec9032087d67a8352ba0bc5530b2345e59f7a233a4d315305c11bfb7f64c49f6",
+    "rid": "linux-x64",
+    "version": "26.2.1",
+    "unixModesVerified": true,
+    "nativeArchitectureVerified": true,
+    "bundleExecutableVerified": false,
+    "externalDependenciesIncluded": false
+  },
+  {
+    "archive": "MMS-v26.2.1-macOS-AppleSilicon-self-contained.tar.gz",
+    "bytes": 73039410,
+    "sha256": "1f0e86d4de5d0a19d43ed352d2340825afda15a903809abd131ed1ec168a6f78",
+    "rid": "osx-arm64",
+    "version": "26.2.1",
+    "unixModesVerified": true,
+    "nativeArchitectureVerified": true,
+    "bundleExecutableVerified": true,
+    "externalDependenciesIncluded": false
+  },
+  {
+    "archive": "MMS-v26.2.1-macOS-Intel-self-contained.tar.gz",
+    "bytes": 57936991,
+    "sha256": "0d6529837b55919dfdd616e0a2d5d5bdc4f3b373eeb226f705a4466266514ed1",
+    "rid": "osx-x64",
+    "version": "26.2.1",
+    "unixModesVerified": true,
+    "nativeArchitectureVerified": true,
+    "bundleExecutableVerified": true,
+    "externalDependenciesIncluded": false
+  },
+  {
+    "archive": "MMS-v26.2.1-Setup.exe",
+    "bytes": 229935214,
+    "sha256": "3a9ba1aa1558558476e1950e1ab188e6b0957d59db4e5bf2b160f13be5430c01",
+    "rid": "win-x64",
+    "version": "26.2.1",
+    "packageKind": "Windows versioned per-user installer",
+    "payloadArchive": "MMS-v26.2.1-Windows-x64.zip",
+    "signedManifest": true,
+    "signingKeySha256": "0fe634a186142df2443e605490b47a8dfd8af98671ebce4bee7150d10b7b55b3",
+    "externalDependenciesIncluded": false
+  }
+]
