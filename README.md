@@ -4,7 +4,7 @@
 
 ## Скачать
 
-Актуальный выпуск: **[MultiModelStudio 26.2.1](https://github.com/dana4kin/MultiModelStudio-Releases/releases/tag/v26.2.1)**.
+Актуальный выпуск: **[MultiModelStudio 26.3.0](https://github.com/dana4kin/MultiModelStudio-Releases/releases/tag/v26.3.0)**.
 
 Доступны автономные пакеты для:
 
@@ -20,11 +20,11 @@
 - **[Открыть веб-справку](https://dana4kin.github.io/MultiModelStudio-Releases/)**
 - [Справка в Markdown](docs/CONSOLIDATED_HELP_RU.md)
 
-Руководство содержит 48 разделов, 36 автономных снимков интерфейса и каталог всех 433 команд, связанных с 664 элементами Avalonia/WPF.
+Руководство содержит 48 разделов, 36 автономных снимков интерфейса и каталог всех 434 команд, связанных с 666 элементами Avalonia/WPF.
 
 ## Проверка файлов
 
-Для каждого установочного пакета в GitHub Release опубликован файл `.sha256`. Дополнительные материалы находятся в [`verification/v26.2.1`](verification/v26.2.1):
+Для каждого установочного пакета в GitHub Release опубликован файл `.sha256`. Дополнительные материалы находятся в [`verification/v26.3.0`](verification/v26.3.0):
 
 - публичный ключ RSA;
 - сводный перечень и контрольные суммы пакетов;
