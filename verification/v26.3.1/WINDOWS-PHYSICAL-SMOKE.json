@@ -1,0 +1,36 @@
+{
+  "schemaVersion": 1,
+  "version": "26.3.1",
+  "sourceCommit": "d723c59809dbe5b0b8a13196f6b65285ca06d292",
+  "platform": "Windows x64",
+  "installer": {
+    "file": "MMS-v26.3.1-Setup.exe",
+    "bytes": 229972078,
+    "sha256": "9de8cc3de6d7a622a911647e8b677765f56c2cca59cda42f393e0a981eef6282",
+    "exitCode": 0
+  },
+  "signature": {
+    "algorithm": "RSA-PSS-SHA256",
+    "directVerification": true,
+    "tamperRejected": true,
+    "manifestBytes": 52401,
+    "manifestSha256": "e159b7c469e4116eadce3ff2f42a63ee3253c4db2e0fc46b663761e3ebb859f3",
+    "signingKeySha256": "0fe634a186142df2443e605490b47a8dfd8af98671ebce4bee7150d10b7b55b3"
+  },
+  "activation": {
+    "versionId": "26.3.1-d723c59809db",
+    "manifestSha256": "e159b7c469e4116eadce3ff2f42a63ee3253c4db2e0fc46b663761e3ebb859f3",
+    "databaseCreated": true,
+    "databaseBytes": 1130496,
+    "databaseSha256": "7396612bdc5866d743b850a5592818642493993c0a974836596ed6d1940091d0"
+  },
+  "ui": {
+    "entryPoint": "Avalonia/MultiModelStudio.Avalonia.exe",
+    "windowTitle": "MultiModel Studio",
+    "launched": true,
+    "mainWorkspaceReady": true,
+    "memoryToolCatalogVisible": true,
+    "closedCleanly": true
+  },
+  "result": "PASS"
+}

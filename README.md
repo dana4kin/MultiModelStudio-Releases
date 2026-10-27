@@ -4,7 +4,7 @@
 
 ## Скачать
 
-Актуальный выпуск: **[MultiModelStudio 26.3.0](https://github.com/dana4kin/MultiModelStudio-Releases/releases/tag/v26.3.0)**.
+Актуальный выпуск: **[MultiModelStudio 26.3.1](https://github.com/dana4kin/MultiModelStudio-Releases/releases/tag/v26.3.1)**.
 
 Доступны автономные пакеты для:
 
@@ -24,7 +24,7 @@
 
 ## Проверка файлов
 
-Для каждого установочного пакета в GitHub Release опубликован файл `.sha256`. Дополнительные материалы находятся в [`verification/v26.3.0`](verification/v26.3.0):
+Для каждого установочного пакета в GitHub Release опубликован файл `.sha256`. Дополнительные материалы находятся в [`verification/v26.3.1`](verification/v26.3.1):
 
 - публичный ключ RSA;
 - сводный перечень и контрольные суммы пакетов;
