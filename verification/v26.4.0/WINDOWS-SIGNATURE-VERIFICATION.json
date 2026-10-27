@@ -1,0 +1,10 @@
+{
+  "signatureDirectVerification": true,
+  "tamperRejected": true,
+  "manifestBytes": 57679,
+  "manifestSha256": "1817239b0992b5e82b1fa38f4f2945851f00dc3397fba952160e26f0a5ac619b",
+  "signingKeySha256": "29e56eb558b19a937df1324f917a3bd0ae92f8b96e2cb8d49777d5c500544d1c",
+  "forbiddenPayloadFiles": 0,
+  "archiveBytes": 73873216,
+  "archiveSha256": "f13aa46645feb989108ce4b03e045b6174827d4160571c31290babef7811ee04"
+}

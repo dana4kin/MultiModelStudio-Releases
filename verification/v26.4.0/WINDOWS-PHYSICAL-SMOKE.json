@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "result": "PASS",
+  "verifiedAtUtc": "2026-10-27T21:13:32.612853+00:00",
+  "platform": "Windows x64",
+  "installerExitCode": 0,
+  "isolatedInstallRoot": "D:\\mms-v26.4.0-physical-install-4a1ec7a5",
+  "isolatedDataRoot": "D:\\mms-v26.4.0-physical-data-4a1ec7a5",
+  "installedVersionId": "26.4.0-4a1ec7a5fe77",
+  "appVersion": "26.4.0",
+  "sourceCommit": "4a1ec7a5fe77cf272b6bf99414a0f49b288748fa",
+  "manifestSha256": "1817239b0992b5e82b1fa38f4f2945851f00dc3397fba952160e26f0a5ac619b",
+  "installedEntrypoint": "D:\\mms-v26.4.0-physical-install-4a1ec7a5\\versions\\26.4.0-4a1ec7a5fe77\\Avalonia\\MultiModelStudio.Avalonia.exe",
+  "mainWindowTitle": "MultiModel Studio",
+  "startupReadyMarker": "Main window created. Application ready.",
+  "startupFailureObserved": false,
+  "databaseBytes": 1302528,
+  "databaseSha256": "3ad2db8ec5ceb8c63a1a988a3c6fadab7c48b7f397f39a0b9199720113148db2",
+  "windowsPhysicalLaunchOnTargetOsVerified": true,
+  "linuxPhysicalLaunchOnTargetOsVerified": false,
+  "macOsPhysicalLaunchOnTargetOsVerified": false,
+  "note": "The isolated --install-root acceptance launches the resolved installed entrypoint directly; the normal installer UI launches the default per-user installation root."
+}

@@ -1,0 +1,58 @@
+﻿[
+    {
+        "archive":  "MMS-v26.4.0-Windows-x64.zip",
+        "bytes":  73873216,
+        "sha256":  "f13aa46645feb989108ce4b03e045b6174827d4160571c31290babef7811ee04",
+        "rid":  "win-x64",
+        "version":  "26.4.0",
+        "payloadHashesVerified":  true,
+        "externalDependenciesIncluded":  false,
+        "signedManifest":  true,
+        "signingKeySha256":  "29e56eb558b19a937df1324f917a3bd0ae92f8b96e2cb8d49777d5c500544d1c"
+    },
+    {
+        "archive":  "MMS-v26.4.0-Linux-x64-self-contained.tar.gz",
+        "bytes":  83455469,
+        "sha256":  "f8acb679ff795af3a13860e6f0bb5deade0568c5e6737be342ef49519adf1f21",
+        "rid":  "linux-x64",
+        "version":  "26.4.0",
+        "unixModesVerified":  true,
+        "nativeArchitectureVerified":  true,
+        "bundleExecutableVerified":  false,
+        "externalDependenciesIncluded":  false
+    },
+    {
+        "archive":  "MMS-v26.4.0-macOS-AppleSilicon-self-contained.tar.gz",
+        "bytes":  78674126,
+        "sha256":  "8fa75999b9c2d1ad3ce74002b11d38b9e54144f676ed3b3c6e31ff3db340dc5d",
+        "rid":  "osx-arm64",
+        "version":  "26.4.0",
+        "unixModesVerified":  true,
+        "nativeArchitectureVerified":  true,
+        "bundleExecutableVerified":  true,
+        "externalDependenciesIncluded":  false
+    },
+    {
+        "archive":  "MMS-v26.4.0-macOS-Intel-self-contained.tar.gz",
+        "bytes":  63561298,
+        "sha256":  "6995c97f9af983a3157fefc4a35af8e5340b129bdbbd92974ec464a920e59752",
+        "rid":  "osx-x64",
+        "version":  "26.4.0",
+        "unixModesVerified":  true,
+        "nativeArchitectureVerified":  true,
+        "bundleExecutableVerified":  true,
+        "externalDependenciesIncluded":  false
+    },
+    {
+        "archive":  "MMS-v26.4.0-Setup.exe",
+        "bytes":  235624558,
+        "sha256":  "b9ecf2c735ce6b4768ff56381eaf6177356ef9ea9d929863c6ba170c683f31f5",
+        "rid":  "win-x64",
+        "version":  "26.4.0",
+        "packageKind":  "Windows versioned per-user installer",
+        "payloadArchive":  "MMS-v26.4.0-Windows-x64.zip",
+        "signedManifest":  true,
+        "signingKeySha256":  "29e56eb558b19a937df1324f917a3bd0ae92f8b96e2cb8d49777d5c500544d1c",
+        "externalDependenciesIncluded":  false
+    }
+]
