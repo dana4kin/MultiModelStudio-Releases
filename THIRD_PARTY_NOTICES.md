@@ -16,6 +16,8 @@ restricted by `LICENSE.md`.
 | Microsoft.EntityFrameworkCore, .Sqlite, .Design | 8.0.0 | MIT | Microsoft Corporation / .NET Foundation |
 | Microsoft.Extensions.DependencyInjection, Microsoft.Extensions.Hosting | 8.0.0 | MIT | Microsoft Corporation / .NET Foundation |
 | NAudio | 2.2.1 | MIT | Mark Heath (текст: `docs/NAUDIO_LICENSE.txt`) |
+| LibVLCSharp.Avalonia | 3.10.2 | LGPL-2.1-or-later | VideoLAN and contributors (текст: `docs/LIBVLC_LGPL_2_1.txt`) |
+| VideoLAN.LibVLC.Windows | 3.0.23.1 | LGPL-2.1-or-later | VideoLAN and contributors (текст: `docs/LIBVLC_LGPL_2_1.txt`; исходный код: https://code.videolan.org/videolan/vlc) |
 | Inter (шрифт, через Avalonia.Fonts.Inter) | — | SIL Open Font License 1.1 | Rasmus Andersson |
 | xunit, xunit.runner.visualstudio, Microsoft.NET.Test.Sdk | 2.8.x / 17.10.0 | Apache-2.0 / MIT | .NET Foundation, Microsoft (только тесты) |
 | .NET Runtime / SDK 8 | 8.0.x | MIT | Microsoft Corporation / .NET Foundation |
@@ -27,11 +29,17 @@ restricted by `LICENSE.md`.
 | SampleMcpServer | MIT (текст: `docs/SAMPLEMCP_LICENSE.txt`, манифест: `docs/SAMPLEMCP_BUNDLE.json`) | комплектный MCP-сервер, **в репозиторий не входит** |
 | llama.cpp / llama-server | MIT | внешний рантайм, **в репозиторий не входит**, скачивается или собирается пользователем |
 | MOTEKA Runtime | MIT | отдельный репозиторий `moteka`, **в репозиторий не входит** |
+| Berkeley Function Calling Leaderboard (BFCL V4 Memory) | Apache-2.0 | exact public dataset source retained under `datasets/functional-memory-bfcl-v4-public-v1/upstream`; pinned commit and hashes are declared in its manifest |
 | tesseract (OCR) | Apache-2.0 | внешний опциональный CLI, вызывается через `Process` |
 | nvidia-smi | проприетарная (NVIDIA) | внешний опциональный CLI, вызывается через `Process` |
+| vercel-labs/agent-desktop 1.3.0 | Apache-2.0 | официальный нативный CLI и платформенные helpers входят в соответствующую Windows/Linux/macOS поставку; версия, npm integrity и SHA-256 файлов закреплены в `external-agent-tools.json` |
+| vercel-labs/agent-browser 0.43.0 | Apache-2.0 | официальный нативный CLI входит в соответствующую Windows x64/Linux/macOS поставку; Chrome/Chromium в поставку MMS не входит и устанавливается отдельно по явному действию пользователя |
+| vercel-labs/skills | MIT | архитектурный источник формата и проверки SKILL.md; CLI и скрипты в поставку не входят |
+| vercel-labs/json-render | Apache-2.0 | архитектурный источник принципов декларативного UI; JavaScript-пакеты и рендереры в поставку не входят |
+| vercel-labs/agent-skills | лицензия указана в метаданных каждого применимого skill | источник идей проверки интерфейса и текста; исходные skill-файлы и скрипты не копируются |
 | Модели машинного обучения (GGUF, safetensors и др.) | лицензии их авторов | **в репозиторий не входят**; ответственность за соблюдение лицензий моделей несёт пользователь |
 
-Список составлен по состоянию на 18.09.2026 по файлам `*.csproj` и `docs/`. При добавлении зависимости
+Список обновлён 20.10.2026 по файлам `*.csproj`, `docs/` и committed public datasets. При добавлении зависимости
 запись добавляется сюда в том же коммите.
 
 ## Опциональные классификаторы памяти, 23.09.2026

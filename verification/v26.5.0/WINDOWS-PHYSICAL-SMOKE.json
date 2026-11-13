@@ -1,0 +1,14 @@
+{
+  "schema": "mms.windows-physical-smoke.v1",
+  "version": "26.5.0",
+  "sourceCommit": "24b189411c8840f47c92b17f68a5ae4c9c00e803",
+  "setupMode": "portable",
+  "setupExitCode": 0,
+  "executable": "Avalonia/MultiModelStudio.Avalonia.exe",
+  "mainWindowHandleObserved": true,
+  "mainWindowTitle": "MultiModel Studio",
+  "responding": true,
+  "productVersion": "26.5.0+24b189411c8840f47c92b17f68a5ae4c9c00e803",
+  "success": true,
+  "verifiedUtc": "2026-11-13T16:59:48.361Z"
+}
